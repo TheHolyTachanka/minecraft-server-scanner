@@ -12,7 +12,7 @@
 * Edit `masscan.conf`
 * Scan for servers **More info [here](#scanning-for-servers)**
 * Rename `.env.example` to `.env` and edit it
-* then run the project with `cargo run`
+* then run the project with `cargo run -- <path to ip list file>`
 
 ## Scanning for servers
 ### Ip list format
